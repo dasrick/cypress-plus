@@ -1,2 +1,3 @@
-# cypress-plus
-Docker images with Node.js and Cypress
+# Cypress plus
+
+Docker images with Node.js and Cypress.
