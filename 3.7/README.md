@@ -3,7 +3,7 @@
 
 # dasrick/cypress-plus:3.7
 
-* latest cypress/base:12 <br>(include all operating system dependencies necessary to run Cypress, **but NOT the test runner itself**)
+* cypress/base:12.14.0 <br>(include all operating system dependencies necessary to run Cypress, **but NOT the test runner itself**)
 * include cypress latest 3.7.*
 
 ***

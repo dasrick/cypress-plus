@@ -1,4 +1,4 @@
-FROM cypress/base:12
+FROM cypress/base:12.14.0
 
 MAINTAINER Enrico Hoffmann <dasrick@gmail.com>
 
