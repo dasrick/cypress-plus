@@ -3,7 +3,7 @@ FROM cypress/base:12
 MAINTAINER Enrico Hoffmann <dasrick@gmail.com>
 
 ENV CI=1
-ARG CYPRESS_VERSION="3.4"
+ARG CYPRESS_VERSION="3.8"
 
 RUN echo "whoami: $(whoami)"
 RUN npm config -g set user $(whoami)
